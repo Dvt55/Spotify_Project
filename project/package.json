@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  },
+  "scripts": {
+    "start-json-server": "json-server --watch api-artist/artists.json --port 3000"
+  }
+}
